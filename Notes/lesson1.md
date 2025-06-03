@@ -1,4 +1,7 @@
+# Lesson 1 - Python Basics
+
 **Input and Output**
+
 ```python
 # Output
 print("Hello world!")
